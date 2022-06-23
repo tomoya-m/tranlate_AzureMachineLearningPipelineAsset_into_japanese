@@ -232,5 +232,23 @@
   - Evaluate a recommendation model. [レコメンドモデルを評価します。]
   - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/evaluate-recommender)
 - One-vs-All Multiclass
-  - Creates a one-vs-all multiclass classification model from an ensemble of binary classification models.
+  - Creates a one-vs-all multiclass classification model from an ensemble of binary classification models. [バイナリ分類モデルのアンサンブルからOne-vs-Allの多クラス分類モデルを作成します。]
   - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/one-vs-all-multiclass)
+- Poisson Regression [ポワソン回帰]
+  - Creates a regression model that assumes data has a Poisson distribution. [データがポアソン分布であると仮定した回帰モデルを作成します。]
+  - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/poisson-regression)
+- Add Columns [列の追加]
+  - Add a set of columns from one dataset to another. [あるデータセットから別のデータセットに列のセットを追加します。]
+  - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/add-columns)
+- Split Data [データの分割]
+  - Partitions the rows of a dataset into two distinct sets. [データセットの行を2つの異なるセットに分割します。]
+  - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/split-data)
+- Select Columns in Dataset [データセット内の列の選択]
+  - Select columns to include or exclude from dataset in an operation. [データセットに含める/除外する列を選択します。]
+  - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/select-columns-in-dataset)
+- Clean Missing Data [欠損値の処理]
+  - Specifies how to handle the values missing from a dataset. [データセットに含まれている欠損値の処理方法を指定します。]
+  - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/clean-missing-data)
+- Permutation Feature Importance [順列の特徴量の重要度]
+  - Computes the permutation feature importance scores of feature variables given a trained model and a test dataset. [学習済みモデルとテストデータセットが与えられたときの特徴量の並び変えの重要度スコアを計算します。]
+  - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/permutation-feature-importance)
