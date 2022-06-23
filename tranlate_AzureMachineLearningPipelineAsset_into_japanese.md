@@ -1,4 +1,4 @@
-## データ
+# データ
 
 - Adult Census Income Binary Classification dataset [国勢調査の成人の所得に関する二値分類データセット]
   - Census Income dataset [国勢調査の所得に関するデータセット]
@@ -7,7 +7,7 @@
 - CRM Churn Labels Shared
   - CRM Appetency Labels
 
-## コンポーネント
+# コンポーネント
 
 ### PCAベースの異常検出
 
@@ -252,3 +252,19 @@
 - Permutation Feature Importance [順列の特徴量の重要度]
   - Computes the permutation feature importance scores of feature variables given a trained model and a test dataset. [学習済みモデルとテストデータセットが与えられたときの特徴量の並び変えの重要度スコアを計算します。]
   - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/permutation-feature-importance)
+- One-vs-One Multiclass
+  - Creates a one-vs-one multiclass classification model from an ensemble of binary classification models. [二値分類モデルのアンサンブルからOne-vs-Oneの多クラス分類モデルを作成します。]
+  - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/one-vs-one-multiclass)
+- Train Anomaly Detection Model [異常検出モデルのトレーニング]
+  - Trains an anomaly detector model and labels data from the training set. [異常検出モデルを学習し、学習セットからデータをラベリングします。]
+  - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/train-anomaly-detection-model)
+- Train Vowpal Wabbit Model [Vowoal Wabbitモデルのトレーニング]
+  - Train a Vowpal Wabbit model using the command line interface. [コマンドラインインターフェースを用いて、Vowpal Wabbitモデルを学習させます。]
+  - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/train-vowpal-wabbit-model)
+- Neural Network Regression [ニューラルネットワーク回帰]
+  - Creates a regression model using a neural network algorithm. [ニューラルネットワークアルゴリズムによる回帰モデルを作成します。]
+  - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/neural-network-regression)
+- Web Service Input
+  - Indicates where data enters in a real-time interface pipeline. [リアルタイムインターフェースパイプラインのどこにデータが入るかを示します。]
+- web Service Output
+  - Indicates where data returns in a real-time interface pipeline. [リアルタイムインターフェースパイプラインの中で、データが戻ってくる場所を示します。]
