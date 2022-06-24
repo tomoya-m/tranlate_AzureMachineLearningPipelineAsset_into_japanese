@@ -193,6 +193,7 @@
   - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/preprocess-text)
 
 ### マルチクラスロジスティック回帰
+
 - Multiclass Logistic Regression [マルチクラスロジスティック回帰]
   - Creates a multiclass logistic regression classification model. [マルチクラスロジスティック回帰分類モデルを作成します。]
   - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/multiclass-logistic-regression)
@@ -445,6 +446,7 @@
   - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/clean-missing-data)
 
 ### 順列の特徴量の重要度
+
 - Permutation Feature Importance [順列の特徴量の重要度]
   - Computes the permutation feature importance scores of feature variables given a trained model and a test dataset. [学習済みモデルとテストデータセットが与えられたときの特徴量の並び変えの重要度スコアを計算します。]
   - [Learn More](https://docs.microsoft.com/ja-jp/azure/machine-learning/component-reference/permutation-feature-importance)
