@@ -10,6 +10,101 @@
 - Automobile price data (Raw) [自動車価格の生データ]
   - Clean missing data module required. Prices of various automobiles against make, model and technical specifications. [クリーンミッシングデータモジュールが必要です。メーカー、モデル、技術仕様に対する様々な自動車の価格。]
 
+### CRM Appetency Labels Shared
+
+- CRM Appetency Labels Shared
+  - CRM Appetency Labels
+  - CRMはCustomer Relationship Managementの略で、顧客関係管理という意味である。単に顧客管理という場合もある。
+    - 広義には「顧客に適切な対応をとり、顧客との良好な関係を構築・維持・促進すること」
+    - 狭義には「顧客関係管理を行うためのITツール」
+  - 何のデータか調べても分からなかった。
+  - KDD Cup 2009 顧客関係予測チャレンジのラベルデータという記述もあったが実体は不明。
+
+### CRM Churn Labels Shared
+
+- CRM Churn Labels Shared
+  - CRM Churn Labels
+  - CRMはCustomer Relationship Managementの略で、顧客関係管理という意味である。単に顧客管理という場合もある。
+    - 広義には「顧客に適切な対応をとり、顧客との良好な関係を構築・維持・促進すること」
+    - 狭義には「顧客関係管理を行うためのITツール」
+  - 何のデータか調べても分からなかった。
+  - KDD Cup 2009 顧客関係予測チャレンジのラベルデータという記述もあったが実体は不明。
+
+### CRM Dataset Shared
+
+- CRM Dataset Shared
+  - CRM Dataset
+  - CRMはCustomer Relationship Managementの略で、顧客関係管理という意味である。単に顧客管理という場合もある。
+    - 広義には「顧客に適切な対応をとり、顧客との良好な関係を構築・維持・促進すること」
+    - 狭義には「顧客関係管理を行うためのITツール」
+  - 何のデータか調べても分からなかった。
+  - KDD Cup 2009 顧客関係予測チャレンジのラベルデータという記述もあったが実体は不明。
+
+### CRM Upselling Labels Shared
+
+- CRM Upselling Labels Shared
+  - CRM Upselling Labels
+  - CRMはCustomer Relationship Managementの略で、顧客関係管理という意味である。単に顧客管理という場合もある。
+    - 広義には「顧客に適切な対応をとり、顧客との良好な関係を構築・維持・促進すること」
+    - 狭義には「顧客関係管理を行うためのITツール」
+  - Upsellは「より高いものを買ってもらうこと」を意味する。顧客当たりの売上単価の向上に関する単語。
+  - 何のデータか調べても分からなかった。
+  - KDD Cup 2009 顧客関係予測チャレンジのラベルデータという記述もあったが実体は不明。
+
+### 航空便遅延データ
+
+- Flight Delays Data [航空便遅延データ]
+  - Flight Delays Data [航空便遅延データ]
+
+### ドイツのクレジットカードデータセット
+
+- German Credit Card UCI dataset [ドイツのクレジットカードUCIデータセット]
+  - German Credit Card UCI dataset [ドイツのクレジットカードUCIデータセット]
+  - [UCI](https://archive.ics.uci.edu/ml/index.php)は機械学習のためのデータセットをまとめているサービスである。
+
+### 映画タイトルデータ
+
+- IMDB Movie Titles [IMDB映画タイトル]
+  - IMDB Movie Titles [IMDB映画タイトル]
+  - [IMDB](https://www.imdb.com/?ref_=nv_home)は各国の映画についてまとめてあるサイトである。
+
+### 映画の評価データ
+
+- Movie Ratings [映画の評価]
+  - Movie Ratings [映画の評価]
+
+### 気象データセット
+
+- Weather Dataset [気象データセット]
+  - Weather Dataset [気象データセット]
+
+### S&P 500のWikipediaテキストデータセット
+
+- Wikipedia SP 500 Dataset
+  - Wikipedia SP 500 Dataset
+  - [S&P 500](https://ja.wikipedia.org/wiki/S%26P_500)とは、ニューヨーク証券取引所, NYSE MKT, NASDAQに上場している企業の中から選出された代表的な500社のこと。
+  - 詳細やこのデータセットを用いたサンプルは[こちら](https://github.com/Azure/MachineLearningDesigner/blob/master/articles/samples/text-classification-wiki.md#data)
+
+### 動物画像データセット
+
+- Animal Images Dataset [動物画像データセット]
+  - This sample dataset is derived Open Image Dataset and includes 3 animal categories (cat, dog, frog). Each category contains 10 images. [このサンプルデータセットはOpen Image Datasetから派生したもので、3つの動物カテゴリ（cat, dog, frog）を含んでいます。各カテゴリには10枚の画像が含まれています。]
+
+### レストランの特徴データ
+
+- Restaurant Feature Data [レストランの特徴データ]
+  - Contains restaurant features, such as name, address and dress_code. [名前、住所、ドレスコードなどのレストランの特徴が含まれています。]
+
+### レストランの評価データ
+
+- Restaurant Ratings [レストランの評価]
+  - Contains ratings given by customers to restaurants on scale from 0 to 2. [お客様がレストランに付けた0~2点までの評価が記載されています。]
+
+### レストランの顧客データ
+
+- Restaurant Customer Data [レストランの顧客データ]
+  - Contains customer feature, such as drink_level, dress_preference and material_status. [drink_level、dress_preference、material_status などの顧客特徴が含まれる。]
+
 # コンポーネント
 
 ### PCAベースの異常検出
